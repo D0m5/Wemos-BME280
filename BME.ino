@@ -11,7 +11,7 @@
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BME280.h>
 
-/* Change Values
+/* Search and Change Values
 SSID
 Passw0rd
 Wemos_Name
